@@ -1,19 +1,64 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Produtos Globo.com
+* Plataforma de Cadastro
+* Plataforma de Personalização
+* Plataforma de Comentários
+* Área de Semântica
+* Tsuru: Plataforma como serviço
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Felipe Sepulveda de Faria
+---------------------------
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+* Rua das Laranjeiras 322 apt 602
+* Rio de Janeiro, RJ
+* Celular: (21) 98884 3431 Fixo: (21) 2558 5352
+* felipesfaria@gmail.com
+* Brasileiro
+* 27 anos
+* Solteiro
+
+Objetivo:
+---------
+**Estágio**
+
+Formação acadêmica:
+-------------------
+Cursando Ciência da Computação na Universidade Federal do Rio de Janeiro  
+**Previsão de formação:** Julho de 2015
+
+Experiencia profissional:
+-------------------------
+Iniciação Ciêntifica no laboratório NIM - Nucleo de Imagem em Movimento  
+Setembro de 2012 até Março de 2014  
+**Atribuições:** Desenvolvimento de aplicativos para iPhone, iPad e Android (Galeria do Museu D. Joao VI no iTunes, versão para Android ainda não foi publicado).
+
+Estágio com bolsa na Reitoria da Escola de Belas Artes da Universidade Federal do Rio de Janeiro  
+Setembro de 2012 até Janeiro de 2014  
+**Atribuições:** Manutenção do Site e do Facebook da Escola de Belas Artes, organização das ementas dos cursos.
+
+Estágio na empresa Entreoutros  
+Maio de 2011 - Julho de 2011  
+**Atribuições:** Programar com PHP, jQuery e MySQL, desenvolver aplicativos para Facebook
+
+Cursos:
+-------
+Curso Intensivo de Webdesign no Instituto Infnet  
+Janeiro de 2009 (4 semanas de aula)
+
+Idiomas:
+--------
+* Inglês - fluente (Morou 5 anos em paises de lingua inglesa)
+* Japones - básico (Experiência no país)
+* Alemão - básico (Experiência no país)
+
+Principais qualificações:
+-------------------------
+Boas noções de usabilidade  
+Experiência com Windows, Mac e Linux  
+Facilidade em aprender novas linguagens  
+Linguagens: C/C++, Objective C, Java, Javascript, PHP, HTML, CSS, Actionscript, MySQL
